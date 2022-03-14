@@ -88,10 +88,10 @@ font-size:16px;
 `;
 
 const AreaCheckbox = styled.div`
-width: 75%;
+width: 76%;
 display: flex;
-justify-content: flex-start;
-align-items: flex-start;
+justify-content: center;
+align-items: center;
 flex-direction: column;
 
 
